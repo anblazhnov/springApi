@@ -1,0 +1,13 @@
+spring\boot\beans\LoggedUser.class
+spring\boot\service\Admin.class
+spring\boot\service\Application.class
+spring\boot\beans\App.class
+spring\boot\beans\Quiz.class
+spring\boot\beans\User.class
+spring\boot\beans\LoginInvocationHandler.class
+spring\boot\beans\User$UserType.class
+spring\boot\beans\UserQuiz.class
+spring\boot\beans\Question.class
+spring\boot\service\RequestController.class
+spring\boot\beans\Answer.class
+spring\boot\beans\Question$Type.class
